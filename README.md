@@ -14,6 +14,9 @@
 ## DynamoDB Check Pointing Diagrams:
 ![alt tag](https://github.com/babasomanath/Spark-Streaming-Kinesis/blob/master/files/DDB_checkpoint.png)
 
+## Monitoring the SparkStages from Spark History Server UI
+![alt tag](https://github.com/babasomanath/Spark-Streaming-Kinesis/blob/master/files/Monitoring_The_SparkStages_From_Spark_History_Server_UI.png)
+
 # Producer Sample Code:
 https://github.com/babasomanath/Spark-Streaming-Kinesis/blob/master/src/main/java/com/example/sparkstreaming/putrecords/PutRecordClient.java
    
