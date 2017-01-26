@@ -9,10 +9,10 @@
      spark-streaming-kinesis-1.0.0-complete.jar Spark-Kinesis-Stream-Client Spark-Streaming https://kinesis.eu-west-1.amazonaws.com &
 
 ## EMR Monitoring Diagrams:
-![alt tag](https://github.com/babasomanath/Spark-Streaming-Kinesis/tree/master/files/Validate.png)
+![alt tag](https://github.com/babasomanath/Spark-Streaming-Kinesis/blob/master/files/Validate.png)
 
 ## DynamoDB Check Pointing Diagrams:
-![alt tag](https://github.com/babasomanath/Spark-Streaming-Kinesis/tree/master/files/DDB_checkpoint.png)
+![alt tag](https://github.com/babasomanath/Spark-Streaming-Kinesis/blob/master/files/DDB_checkpoint.png)
 
 # Producer Sample Code:
 https://github.com/babasomanath/Spark-Streaming-Kinesis/blob/master/src/main/java/com/example/sparkstreaming/putrecords/PutRecordClient.java
